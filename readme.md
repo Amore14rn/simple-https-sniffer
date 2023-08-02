@@ -1,9 +1,3 @@
-## Simple Https Sniffer (CLI version)
-It's a simple https sniffer (cli version) that I have made for [this task](task.md).
-
-Links to repositories:
-* https://bitbucket.org/alexmaker/simple-https-sniffer/
-* https://github.com/Alexitdv/simple-https-sniffer
 
 ### Getting started
 __eth0__ - Example of device name from __sniffer list__ command.
